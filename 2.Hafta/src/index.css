@@ -1,0 +1,68 @@
+body {
+  margin: 40px 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #131313;
+
+  }
+  h1{
+    color:white;
+  }
+  .App {
+  max-width: 640px;
+  margin: 0 auto;
+  }
+ 
+  .assistant-list ul {
+  padding: 0;
+  }
+  .assistant-list li {
+  list-style-type: none;
+  padding: 10px;
+  background: #778ca3;
+  margin: 10px 0;
+  cursor: pointer;
+  color: white;
+  }
+
+
+  .orange-list ul {
+    padding: 0;
+    }
+    .orange-list li {
+    list-style-type: none;
+    padding: 10px;
+    background: orangered;
+    margin: 10px 0;
+    cursor: pointer;
+    color: white;
+    }
+
+    
+  .alice-list ul {
+    padding: 0;
+    }
+    .alice-list li {
+    list-style-type: none;
+    padding: 10px;
+    background: aliceblue;
+    margin: 10px 0;
+    cursor: pointer;
+    color: black;
+    }
+
+
+    .deep-list ul {
+      padding: 0;
+      }
+      .deep-list li {
+      list-style-type: none;
+      padding: 10px;
+      background: deeppink;
+      margin: 10px 0;
+      cursor: pointer;
+      color: white;
+      }
